@@ -1,0 +1,157 @@
+国家,服务分类,销售额,利润
+Algeria,Commercial,3219.0300000000007,66.85000000000001
+Algeria,Public,1598.0900000000001,-0.41000000000000014
+Algeria,Residential,3524.81,-45.97999999999999
+Angola,Commercial,2740.6,46.81999999999999
+Angola,Public,1732.6399999999999,-15.180000000000003
+Angola,Residential,1607.85,117.69999999999999
+Benin,Commercial,7638.339999999999,27.98
+Benin,Public,3563.42,-55.870000000000005
+Benin,Residential,5778.2,186.70999999999998
+Botswana,Commercial,3500.5,211.49
+Botswana,Public,1972.46,-55.34
+Botswana,Residential,2460.67,7.419999999999995
+Burkina Faso,Commercial,2913.41,-20.029999999999998
+Burkina Faso,Public,5391.66,-15.990000000000013
+Burkina Faso,Residential,1716.29,-74.97999999999999
+Burundi,Commercial,1228.37,59.18000000000001
+Burundi,Public,3720.01,26.959999999999997
+Burundi,Residential,3439.32,55.53
+Cameroon,Commercial,4903.66,70.1
+Cameroon,Public,9113.23,154.83000000000004
+Cameroon,Residential,2524.43,18.799999999999997
+Central African Republic,Commercial,2020.46,61.55
+Central African Republic,Public,1257.0,40.86
+Central African Republic,Residential,4873.24,43.86999999999998
+Chad,Commercial,1937.3400000000004,33.260000000000005
+Chad,Public,1881.2399999999998,22.63
+Chad,Residential,1463.3400000000001,107.51
+Congo,Commercial,3842.5,24.59
+Congo,Public,399.89,-8.9
+Congo,Residential,4462.09,65.97
+Cote d'Ivoire,Commercial,8097.540000000001,-181.28000000000006
+Cote d'Ivoire,Public,3525.8700000000003,-30.249999999999996
+Cote d'Ivoire,Residential,6444.43,96.51000000000002
+Democratic Republic of the Congo,Commercial,10368.300000000001,225.69000000000005
+Democratic Republic of the Congo,Public,6738.429999999999,69.00999999999999
+Democratic Republic of the Congo,Residential,6694.919999999999,123.62
+Djibouti,Commercial,1262.47,-34.11
+Djibouti,Public,3072.92,21.120000000000005
+Djibouti,Residential,5001.87,-0.75
+Egypt,Commercial,2925.01,36.04999999999998
+Egypt,Public,1066.42,40.33
+Egypt,Residential,3402.5199999999995,65.83000000000001
+Equatorial Guinea,Commercial,3334.69,-32.71
+Equatorial Guinea,Public,1561.23,19.0
+Equatorial Guinea,Residential,3436.0899999999997,91.75000000000001
+Eritrea,Commercial,5132.639999999999,118.30000000000001
+Eritrea,Public,1368.24,-10.829999999999998
+Eritrea,Residential,2221.96,-35.75
+Ethiopia,Commercial,5442.21,207.20000000000002
+Ethiopia,Public,1491.52,-20.699999999999996
+Ethiopia,Residential,1260.73,23.77
+Gabon,Commercial,3506.6099999999997,-53.22
+Gabon,Public,2137.21,103.58999999999999
+Gabon,Residential,3458.6800000000003,-51.81
+Ghana,Commercial,4214.78,-42.510000000000005
+Ghana,Public,5427.43,301.99
+Ghana,Residential,6444.120000000001,-58.680000000000014
+Guinea,Commercial,2310.23,-57.02
+Guinea,Public,4084.8999999999996,-9.800000000000002
+Guinea,Residential,197.63,1.98
+Guinea-Bissau,Commercial,3306.6699999999996,61.25
+Guinea-Bissau,Public,2211.85,59.42
+Guinea-Bissau,Residential,1396.21,81.49
+Kenya,Commercial,759.18,-15.18
+Kenya,Public,3446.99,-18.050000000000004
+Kenya,Residential,4462.540000000001,12.049999999999994
+Lesotho,Commercial,3753.59,172.95
+Lesotho,Public,2046.2500000000002,32.82000000000001
+Lesotho,Residential,1618.5299999999997,60.57
+Liberia,Commercial,1121.54,-25.46
+Liberia,Public,1542.08,1.0400000000000063
+Liberia,Residential,3968.7200000000003,-109.00999999999999
+Libya,Commercial,1108.1,-42.49999999999999
+Libya,Public,2185.67,49.86
+Libya,Residential,3531.65,185.09000000000003
+Madagascar,Commercial,1896.94,93.7
+Madagascar,Public,4080.4300000000003,-181.84
+Madagascar,Residential,3001.75,91.25
+Malawi,Commercial,5498.86,189.19
+Malawi,Public,4391.860000000001,-37.38
+Malawi,Residential,7284.15,168.37
+Mali,Commercial,3129.2,-50.36000000000001
+Mali,Public,434.05,-25.64
+Mali,Residential,2669.3,93.08999999999999
+Mauritania,Commercial,3426.34,131.16
+Mauritania,Public,2900.2300000000005,46.35
+Mauritania,Residential,2746.04,122.12
+Mauritius,Commercial,2269.6600000000003,48.029999999999994
+Mauritius,Public,2953.99,31.48000000000001
+Mauritius,Residential,442.97,44.3
+Morocco,Commercial,1184.0,-43.89000000000001
+Morocco,Public,3937.4300000000003,61.43
+Morocco,Residential,855.42,51.33
+Mozambique,Commercial,3132.2700000000004,56.38
+Mozambique,Public,3784.14,42.63
+Mozambique,Residential,2591.4,47.209999999999994
+Namibia,Commercial,1989.49,82.96000000000001
+Namibia,Public,2400.38,61.19
+Namibia,Residential,4515.59,-67.71000000000001
+Niger,Commercial,4088.75,-84.85
+Niger,Public,3215.12,-139.65
+Niger,Residential,2279.2799999999997,5.140000000000004
+Nigeria,Commercial,7782.799999999999,103.5
+Nigeria,Public,12603.390000000001,-162.10000000000002
+Nigeria,Residential,9594.119999999999,145.84000000000003
+Rwanda,Commercial,2324.6800000000003,-70.25
+Rwanda,Public,3831.17,97.62
+Rwanda,Residential,1876.24,-8.46
+Sao Tome and Principe,Commercial,3478.8399999999997,-16.790000000000006
+Sao Tome and Principe,Public,1849.71,75.2
+Sao Tome and Principe,Residential,3296.66,-28.02
+Senegal,Commercial,3265.29,40.54000000000001
+Senegal,Public,1406.6599999999999,-32.529999999999994
+Senegal,Residential,770.62,19.21
+Seychelles,Commercial,2691.15,-76.61000000000001
+Seychelles,Public,1887.81,-16.490000000000002
+Seychelles,Residential,1324.06,-50.84
+Sierra Leone,Commercial,2974.58,11.790000000000003
+Sierra Leone,Public,2423.89,-21.900000000000002
+Sierra Leone,Residential,1694.6599999999999,-7.2
+Somalia,Commercial,3477.3199999999997,198.65
+Somalia,Public,3581.7799999999997,97.64
+Somalia,Residential,1173.77,13.329999999999998
+South Africa,Commercial,12123.220000000001,33.61000000000004
+South Africa,Public,8349.64,283.64
+South Africa,Residential,16227.47,80.97999999999999
+South Sudan,Commercial,619.94,-49.6
+South Sudan,Public,3397.9400000000005,-73.37
+South Sudan,Residential,3746.8,110.16000000000001
+Sudan,Commercial,3112.16,31.580000000000005
+Sudan,Public,6391.860000000001,26.81999999999999
+Sudan,Residential,7508.469999999998,175.67999999999998
+Swaziland,Commercial,1168.69,49.58
+Swaziland,Public,2907.04,139.63
+Swaziland,Residential,5344.289999999999,1.7099999999999937
+Togo,Commercial,2408.23,-75.78999999999999
+Togo,Public,2498.1400000000003,-80.62
+Togo,Residential,1782.3899999999999,68.70999999999998
+Tunisia,Commercial,4345.82,89.38
+Tunisia,Public,996.48,82.73
+Tunisia,Residential,2166.26,123.16
+Uganda,Commercial,1354.3600000000001,-48.25
+Uganda,Public,2155.31,15.389999999999993
+Uganda,Residential,4732.12,138.16
+United Republic of Tanzania,Commercial,2145.58,-9.540000000000001
+United Republic of Tanzania,Public,1984.6299999999999,53.25
+United Republic of Tanzania,Residential,2426.8700000000003,-60.67
+Western Sahara,Commercial,2517.11,98.80000000000001
+Western Sahara,Public,2574.79,132.61
+Western Sahara,Residential,2068.49,38.64
+Zambia,Commercial,2133.3900000000003,-49.68
+Zambia,Public,2318.0699999999997,-7.709999999999997
+Zambia,Residential,2799.2,68.5
+Zimbabwe,Commercial,3547.62,-44.05
+Zimbabwe,Public,1734.06,9.68
+Zimbabwe,Residential,3001.6400000000003,-67.87

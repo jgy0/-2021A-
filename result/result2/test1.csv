@@ -1,0 +1,512 @@
+year,国家,服务分类,销售额,利润,销售年增长率,利润的年增长
+2017,Algeria,Commercial,1575.74,2.0799999999999983,,
+2017,Algeria,Residential,1292.01,-21.799999999999997,,
+2017,Angola,Public,670.01,47.53,,
+2017,Angola,Residential,781.45,76.28999999999999,,
+2017,Benin,Commercial,2099.6000000000004,46.72,,
+2017,Benin,Public,1726.25,-36.99,,
+2017,Benin,Residential,1282.29,88.47999999999999,,
+2017,Botswana,Commercial,2488.64,174.11,,
+2017,Botswana,Residential,114.52,-3.44,,
+2017,Burkina Faso,Commercial,745.22,-29.81,,
+2017,Burkina Faso,Public,951.96,7.699999999999999,,
+2017,Burkina Faso,Residential,638.38,-6.38,,
+2017,Burundi,Commercial,928.07,74.25,,
+2017,Burundi,Public,1052.3600000000001,-3.4600000000000004,,
+2017,Cameroon,Commercial,52.91,2.12,,
+2017,Cameroon,Public,3886.8199999999997,63.06000000000002,,
+2017,Cameroon,Residential,466.81,-23.34,,
+2017,Central African Republic,Commercial,1425.3799999999999,55.599999999999994,,
+2017,Central African Republic,Public,76.46,3.82,,
+2017,Central African Republic,Residential,363.3,7.27,,
+2017,Chad,Commercial,1267.88,33.230000000000004,,
+2017,Congo,Commercial,789.45,-33.83,,
+2017,Congo,Residential,1675.54,10.590000000000003,,
+2017,Cote d'Ivoire,Commercial,1322.69,-29.23,,
+2017,Cote d'Ivoire,Public,860.86,10.55,,
+2017,Cote d'Ivoire,Residential,2439.63,-125.14999999999999,,
+2017,Democratic Republic of the Congo,Commercial,3316.8199999999997,147.99,,
+2017,Democratic Republic of the Congo,Public,1822.22,-13.619999999999997,,
+2017,Democratic Republic of the Congo,Residential,717.11,-1.8099999999999987,,
+2017,Djibouti,Commercial,885.22,-26.56,,
+2017,Djibouti,Residential,2119.85,13.899999999999999,,
+2017,Egypt,Commercial,1438.52,66.82,,
+2017,Egypt,Residential,1205.74,74.22,,
+2017,Equatorial Guinea,Commercial,2033.74,-10.180000000000003,,
+2017,Equatorial Guinea,Residential,996.56,9.97,,
+2017,Eritrea,Commercial,791.98,7.92,,
+2017,Eritrea,Public,196.57,13.76,,
+2017,Eritrea,Residential,1012.65,-35.839999999999996,,
+2017,Ethiopia,Commercial,600.36,6.0,,
+2017,Ethiopia,Public,404.76,-22.47,,
+2017,Ethiopia,Residential,509.93,10.2,,
+2017,Gabon,Commercial,1934.54,-36.989999999999995,,
+2017,Gabon,Public,952.76,38.11,,
+2017,Gabon,Residential,914.72,0.0,,
+2017,Ghana,Commercial,602.79,-7.3100000000000005,,
+2017,Ghana,Public,974.04,49.92,,
+2017,Ghana,Residential,2028.6200000000001,-67.45,,
+2017,Guinea,Commercial,291.86,-17.51,,
+2017,Guinea,Public,1025.36,45.5,,
+2017,Guinea-Bissau,Commercial,28.16,0.28,,
+2017,Guinea-Bissau,Public,812.02,40.6,,
+2017,Guinea-Bissau,Residential,1342.32,77.17999999999999,,
+2017,Kenya,Public,341.57,-10.25,,
+2017,Kenya,Residential,1968.5,-19.930000000000007,,
+2017,Lesotho,Commercial,671.0799999999999,46.02,,
+2017,Lesotho,Public,1091.71,58.2,,
+2017,Liberia,Commercial,301.63,-9.05,,
+2017,Liberia,Public,78.12,-5.47,,
+2017,Liberia,Residential,1417.0,-60.790000000000006,,
+2017,Libya,Commercial,258.25,-15.5,,
+2017,Libya,Public,587.33,-5.87,,
+2017,Libya,Residential,1467.5500000000002,61.540000000000006,,
+2017,Madagascar,Commercial,157.77,-4.73,,
+2017,Madagascar,Public,875.94,-70.08,,
+2017,Madagascar,Residential,1735.3,22.17,,
+2017,Malawi,Commercial,956.1800000000001,43.44,,
+2017,Malawi,Public,958.49,-60.7,,
+2017,Malawi,Residential,2348.2700000000004,71.65,,
+2017,Mali,Public,340.24,-22.830000000000002,,
+2017,Mali,Residential,1248.72,10.21,,
+2017,Mauritania,Commercial,573.76,-34.43,,
+2017,Mauritania,Public,1049.89,71.38,,
+2017,Mauritius,Commercial,512.94,25.65,,
+2017,Mauritius,Public,1608.48,-51.599999999999994,,
+2017,Morocco,Commercial,703.93,-35.2,,
+2017,Morocco,Public,1074.02,53.45,,
+2017,Morocco,Residential,855.42,51.33,,
+2017,Mozambique,Public,540.73,24.81,,
+2017,Mozambique,Residential,1108.79,-9.940000000000001,,
+2017,Namibia,Public,659.86,-6.6,,
+2017,Namibia,Residential,1621.45,-1.230000000000004,,
+2017,Niger,Commercial,59.99,-4.8,,
+2017,Niger,Public,993.01,-30.17,,
+2017,Niger,Residential,3.3,-0.03,,
+2017,Nigeria,Commercial,2367.86,5.380000000000003,,
+2017,Nigeria,Public,3478.3599999999997,-134.62,,
+2017,Nigeria,Residential,3481.12,29.400000000000006,,
+2017,Rwanda,Commercial,322.84,-9.69,,
+2017,Rwanda,Public,1259.25,27.520000000000003,,
+2017,Sao Tome and Principe,Commercial,923.8199999999999,10.879999999999999,,
+2017,Sao Tome and Principe,Public,921.82,55.31,,
+2017,Senegal,Commercial,470.26,11.77,,
+2017,Senegal,Residential,469.98,13.2,,
+2017,Seychelles,Public,1493.29,-23.07,,
+2017,Seychelles,Residential,130.9,-6.140000000000001,,
+2017,Sierra Leone,Commercial,695.88,-13.92,,
+2017,Sierra Leone,Public,238.65,2.39,,
+2017,Sierra Leone,Residential,1213.31,-6.03,,
+2017,Somalia,Commercial,1342.12,46.7,,
+2017,Somalia,Public,977.28,-9.77,,
+2017,Somalia,Residential,320.9,-19.25,,
+2017,South Africa,Commercial,1629.6799999999998,73.72,,
+2017,South Africa,Public,2669.95,173.53,,
+2017,South Africa,Residential,4843.61,-139.49,,
+2017,South Sudan,Public,969.48,-59.83,,
+2017,South Sudan,Residential,372.63,-22.36,,
+2017,Sudan,Commercial,541.59,43.33,,
+2017,Sudan,Public,813.04,-31.17,,
+2017,Sudan,Residential,1847.74,82.66,,
+2017,Swaziland,Public,1460.45,9.440000000000001,,
+2017,Swaziland,Residential,1345.6,-59.56000000000001,,
+2017,Togo,Commercial,1457.7199999999998,-53.69,,
+2017,Togo,Public,155.31,4.66,,
+2017,Togo,Residential,326.97,22.89,,
+2017,Tunisia,Commercial,1707.9299999999998,-3.1799999999999997,,
+2017,Tunisia,Public,701.35,56.11,,
+2017,Uganda,Commercial,284.57,2.85,,
+2017,Uganda,Public,817.49,-48.58,,
+2017,Uganda,Residential,983.55,19.67,,
+2017,United Republic of Tanzania,Commercial,401.85,4.02,,
+2017,United Republic of Tanzania,Public,630.5899999999999,19.05,,
+2017,United Republic of Tanzania,Residential,232.27,-2.32,,
+2017,Western Sahara,Commercial,601.87,60.19,,
+2017,Western Sahara,Public,1499.01,97.31,,
+2017,Western Sahara,Residential,235.84,-2.36,,
+2017,Zambia,Commercial,222.26,20.0,,
+2017,Zambia,Public,1105.65,-39.8,,
+2017,Zambia,Residential,627.11,37.63,,
+2017,Zimbabwe,Commercial,231.41,-4.63,,
+2017,Zimbabwe,Residential,1718.8100000000002,-70.54,,
+2018,Algeria,Commercial,1166.28,69.54,-25.99%,3243.27%
+2018,Algeria,Public,902.45,-9.02,-30.15%,-58.62%
+2018,Angola,Commercial,737.9499999999999,-23.98,10.14%,-150.45%
+2018,Angola,Public,624.65,-39.620000000000005,-20.07%,-151.93%
+2018,Benin,Commercial,2179.0699999999997,-35.12,3.79%,-175.17%
+2018,Benin,Public,902.23,55.919999999999995,-47.73%,-251.18%
+2018,Benin,Residential,343.36,27.47,-73.22%,-68.95%
+2018,Botswana,Public,627.64,19.909999999999997,-74.78%,-88.56%
+2018,Botswana,Residential,1383.3700000000001,70.28,1107.97%,-2143.02%
+2018,Burkina Faso,Commercial,953.96,28.62,28.01%,-196.01%
+2018,Burkina Faso,Public,1603.1399999999999,70.81,68.4%,819.61%
+2018,Burkina Faso,Residential,960.39,-76.83,50.44%,1104.23%
+2018,Burundi,Public,757.23,0.0,-18.41%,-100.0%
+2018,Burundi,Residential,1466.48,-24.970000000000002,39.35%,621.68%
+2018,Cameroon,Commercial,187.33999999999997,-3.75,254.07%,-276.89%
+2018,Cameroon,Public,2269.81,-13.25,-41.6%,-121.01%
+2018,Cameroon,Residential,542.43,-43.39,16.2%,85.9%
+2018,Central African Republic,Public,669.9,33.5,-53.0%,-39.75%
+2018,Central African Republic,Residential,1597.7,-50.370000000000005,1989.59%,-1418.59%
+2018,Chad,Commercial,668.57,0.0,84.03%,-100.0%
+2018,Chad,Public,1103.84,22.08,-12.94%,-33.55%
+2018,Chad,Residential,432.43,30.27,-45.22%,-189.48%
+2018,Congo,Commercial,1022.56,-6.550000000000001,-38.97%,-161.85%
+2018,Congo,Public,59.11,4.73,-95.53%,-116.18%
+2018,Congo,Residential,983.19,78.66,14.21%,645.59%
+2018,Cote d'Ivoire,Commercial,3010.93,-105.07000000000002,23.42%,-16.04%
+2018,Cote d'Ivoire,Public,87.93,5.28,-97.35%,-96.43%
+2018,Cote d'Ivoire,Residential,625.4100000000001,30.619999999999997,-65.68%,-324.82%
+2018,Democratic Republic of the Congo,Commercial,1545.94,21.229999999999993,115.58%,-1272.93%
+2018,Democratic Republic of the Congo,Public,2705.73,-16.67,205.66%,-37.24%
+2018,Democratic Republic of the Congo,Residential,1925.93,84.44,-9.15%,507.48%
+2018,Djibouti,Residential,1929.17,13.940000000000001,34.11%,-79.14%
+2018,Egypt,Public,120.75,1.21,-89.99%,-98.37%
+2018,Egypt,Residential,1408.71,48.59,-30.73%,-577.31%
+2018,Equatorial Guinea,Commercial,32.98,-2.64,-96.69%,-126.48%
+2018,Equatorial Guinea,Public,1268.0900000000001,-10.31,60.12%,-230.18%
+2018,Equatorial Guinea,Residential,383.7,23.02,95.2%,67.3%
+2018,Eritrea,Commercial,1960.37,90.47999999999999,93.59%,-352.46%
+2018,Eritrea,Residential,699.51,-7.0,16.52%,-216.67%
+2018,Ethiopia,Commercial,1799.79,140.11,344.66%,-723.54%
+2018,Ethiopia,Public,751.02,-15.02,47.28%,-247.25%
+2018,Gabon,Residential,1580.79,25.24,-18.29%,-168.23%
+2018,Ghana,Commercial,1360.73,29.849999999999998,42.82%,-21.67%
+2018,Ghana,Public,1013.9000000000001,99.04,10.84%,inf%
+2018,Ghana,Residential,1705.1599999999999,-3.460000000000001,182.88%,-52.67%
+2018,Guinea,Commercial,1054.49,-43.43,8.26%,-187.0%
+2018,Guinea,Residential,197.63,1.98,-90.26%,-102.94%
+2018,Guinea-Bissau,Commercial,861.5,60.31,195.18%,-444.43%
+2018,Guinea-Bissau,Public,1175.9,14.34,14.68%,-68.48%
+2018,Kenya,Public,1409.44,-0.21000000000000085,4905.11%,-175.0%
+2018,Kenya,Residential,391.21,-23.47,-51.82%,-157.81%
+2018,Lesotho,Commercial,1113.23,48.86,-17.07%,-36.69%
+2018,Lesotho,Public,635.88,-50.87,86.16%,396.29%
+2018,Lesotho,Residential,122.51,-7.35,-93.78%,-63.12%
+2018,Liberia,Public,778.49,54.49,16.01%,18.41%
+2018,Liberia,Residential,921.03,-73.68,-15.63%,-226.6%
+2018,Libya,Public,1164.18,38.36,285.96%,-523.87%
+2018,Libya,Residential,740.66,74.07,848.11%,-1454.11%
+2018,Madagascar,Public,1752.3600000000001,-97.22999999999999,23.67%,59.94%
+2018,Madagascar,Residential,924.49,38.809999999999995,257.98%,-350.39%
+2018,Malawi,Commercial,2425.37,135.01,312.95%,-2400.0%
+2018,Malawi,Public,753.87,-37.69,-48.63%,-161.24%
+2018,Malawi,Residential,2257.2400000000002,8.969999999999999,1330.72%,-289.64%
+2018,Mali,Commercial,305.74,-9.17,-65.1%,-86.91%
+2018,Mali,Residential,1156.84,64.73,-33.33%,191.97%
+2018,Mauritania,Commercial,1061.15,63.489999999999995,10.98%,46.16%
+2018,Mauritania,Public,347.85,-13.91,-63.71%,-77.08%
+2018,Mauritania,Residential,702.51,21.08,-70.08%,-70.58%
+2018,Mauritius,Commercial,708.1,27.099999999999998,108.12%,-218.7%
+2018,Mauritius,Residential,442.97,44.3,-64.53%,333.89%
+2018,Morocco,Commercial,43.55,2.61,-92.41%,-107.58%
+2018,Morocco,Public,483.2,39.4,-53.98%,-44.8%
+2018,Mozambique,Commercial,393.33,35.4,-23.32%,38.01%
+2018,Mozambique,Public,1737.28,23.38,8.01%,-145.31%
+2018,Namibia,Commercial,84.09,-2.52,-88.05%,-92.84%
+2018,Namibia,Public,789.26,-27.339999999999996,-26.51%,-151.15%
+2018,Namibia,Residential,234.66,0.0,-72.57%,-100.0%
+2018,Niger,Commercial,1925.54,-57.69,256.1%,-332.53%
+2018,Niger,Residential,983.6399999999999,22.510000000000005,-11.29%,-326.46%
+2018,Nigeria,Commercial,1792.54,71.17999999999999,171.65%,-1178.48%
+2018,Nigeria,Public,3553.8,-45.510000000000005,119.17%,3600.0%
+2018,Nigeria,Residential,1271.77,24.110000000000003,2019.97%,-602.29%
+2018,Rwanda,Public,1081.68,49.59,8.93%,-264.37%
+2018,Rwanda,Residential,1332.8,-41.07,40287.88%,136800.0%
+2018,Sao Tome and Principe,Commercial,344.0,10.32,-85.47%,91.82%
+2018,Sao Tome and Principe,Residential,1477.23,-10.0,-57.53%,-92.57%
+2018,Senegal,Commercial,1295.3,-54.61,-62.79%,-285.75%
+2018,Senegal,Public,890.82,-71.27,175.93%,635.5%
+2018,Seychelles,Commercial,1102.22,-24.77,-12.47%,-190.01%
+2018,Seychelles,Public,260.78,-5.46,-71.77%,-150.18%
+2018,Sierra Leone,Commercial,1432.97,58.849999999999994,55.45%,6.4%
+2018,Sierra Leone,Residential,364.23,0.0,-22.55%,-100.0%
+2018,Somalia,Commercial,328.62,32.86,-30.08%,148.94%
+2018,Somalia,Public,947.2,47.36,-36.57%,-305.29%
+2018,Somalia,Residential,545.0600000000001,38.74,316.39%,-730.94%
+2018,South Africa,Commercial,3558.94,101.72,411.43%,-830.75%
+2018,South Africa,Public,2302.07,1.0100000000000051,864.62%,-57.74%
+2018,South Africa,Residential,4780.49,245.48000000000002,294.0%,-4170.98%
+2018,South Sudan,Residential,2214.4300000000003,129.70999999999998,64.99%,177.75%
+2018,Sudan,Commercial,1530.16,8.829999999999998,56.57%,-190.38%
+2018,Sudan,Public,1612.1599999999999,-31.000000000000007,402.39%,61.04%
+2018,Sudan,Residential,2042.1499999999999,65.53999999999999,25.31%,-11.1%
+2018,Swaziland,Public,1446.59,130.19,-45.82%,-24.98%
+2018,Swaziland,Residential,1293.52,97.0,-73.29%,-169.54%
+2018,Togo,Commercial,290.18,-2.29,-70.07%,-96.17%
+2018,Togo,Residential,294.32,23.22,-21.02%,-203.85%
+2018,Tunisia,Commercial,403.54,36.32,-25.49%,-16.18%
+2018,Tunisia,Residential,1305.76,85.99,60.6%,-375.87%
+2018,Uganda,Commercial,239.4,-9.58,-87.04%,-111.59%
+2018,Uganda,Public,202.35,14.16,-86.14%,50.0%
+2018,Uganda,Residential,1330.8000000000002,25.269999999999996,-1.1%,-142.43%
+2018,United Republic of Tanzania,Commercial,576.67,0.06,-60.44%,-100.11%
+2018,United Republic of Tanzania,Public,507.98,-25.02,227.07%,-636.91%
+2018,Western Sahara,Commercial,1824.03,40.43,457.86%,76.63%
+2018,Western Sahara,Residential,216.43,-10.82,-87.33%,240.25%
+2018,Zambia,Commercial,371.36,-29.71,-47.05%,-152.95%
+2018,Zambia,Residential,1351.2399999999998,-26.590000000000003,374.84%,-1032.98%
+2018,Zimbabwe,Commercial,1734.71,5.520000000000003,112.2%,-111.36%
+2018,Zimbabwe,Public,979.48,0.6899999999999995,-0.41%,-96.49%
+2019,Algeria,Commercial,477.01,-4.77,18.7%,-218.66%
+2019,Algeria,Residential,704.6500000000001,34.69,11.74%,82.1%
+2019,Angola,Commercial,1124.46,9.330000000000002,384.12%,-502.16%
+2019,Angola,Public,39.8,-3.18,-93.39%,-105.28%
+2019,Benin,Commercial,2056.5299999999997,19.07,37.19%,-80.4%
+2019,Benin,Residential,1894.26,91.12,703.2%,-3961.02%
+2019,Botswana,Commercial,471.08,0.0,111.95%,-100.0%
+2019,Botswana,Public,800.32,-48.02,-27.62%,20.65%
+2019,Botswana,Residential,231.01,-0.8799999999999999,-63.16%,-102.34%
+2019,Burkina Faso,Commercial,689.5500000000001,7.39,197.98%,-259.61%
+2019,Burkina Faso,Public,1663.28,-31.2,-3.23%,-55.77%
+2019,Burundi,Commercial,118.96,-2.38,-89.8%,-103.42%
+2019,Burundi,Public,865.69,51.94,-4.07%,-675.83%
+2019,Burundi,Residential,1646.5,47.87,123.12%,-299.62%
+2019,Cameroon,Commercial,2162.02,-7.02,246.12%,-82.28%
+2019,Cameroon,Public,1550.1100000000001,73.39,-28.86%,-308.97%
+2019,Cameroon,Residential,977.32,58.64,8.32%,4.86%
+2019,Central African Republic,Commercial,595.08,5.95,73.31%,-78.34%
+2019,Central African Republic,Public,168.78,-10.13,-73.11%,-150.88%
+2019,Central African Republic,Residential,1205.56,93.62,-12.85%,33.21%
+2019,Chad,Public,320.68,-17.72,-66.38%,-161.91%
+2019,Chad,Residential,585.48,38.04,-63.48%,-46.28%
+2019,Congo,Commercial,1495.3500000000001,91.73,55.7%,-219.39%
+2019,Congo,Residential,641.22,-6.41,-15.32%,-inf%
+2019,Cote d'Ivoire,Commercial,3165.88,-65.72,115.88%,163.2%
+2019,Cote d'Ivoire,Public,1526.07,-32.34,714.6%,762.4%
+2019,Cote d'Ivoire,Residential,743.91,74.39,-67.23%,-661.43%
+2019,Democratic Republic of the Congo,Commercial,2549.84,76.61,370.08%,-276.56%
+2019,Democratic Republic of the Congo,Public,1685.96,81.85,151.67%,144.33%
+2019,Democratic Republic of the Congo,Residential,1099.84,-17.71,-31.16%,-64.84%
+2019,Djibouti,Public,1747.8899999999999,-13.97,161.44%,-inf%
+2019,Djibouti,Residential,952.85,-28.59,-13.68%,-229.48%
+2019,Egypt,Commercial,979.71,-20.630000000000003,126.56%,-168.15%
+2019,Egypt,Public,435.44,21.77,-57.42%,-432.37%
+2019,Egypt,Residential,485.04,-38.8,720.57%,-920.3%
+2019,Equatorial Guinea,Commercial,497.89,9.96,-49.36%,-87.34%
+2019,Equatorial Guinea,Residential,1657.44,70.71000000000001,-44.95%,-167.3%
+2019,Eritrea,Commercial,632.31,53.13,619.11%,906.25%
+2019,Eritrea,Public,326.44,26.12,-47.8%,-14.7%
+2019,Eritrea,Residential,199.16,3.98,-87.12%,-81.25%
+2019,Ethiopia,Commercial,1519.17,67.59,-43.85%,-505.46%
+2019,Ethiopia,Residential,447.81,4.48,-76.75%,-94.69%
+2019,Gabon,Commercial,1272.35,7.75,-34.05%,-44.4%
+2019,Gabon,Public,817.45,81.74,576.98%,6655.37%
+2019,Ghana,Commercial,1513.49,-71.17,7.44%,-246.47%
+2019,Ghana,Public,1789.12,99.54,5324.86%,-3870.45%
+2019,Ghana,Residential,1264.94,-35.300000000000004,-0.25%,242.39%
+2019,Guinea,Public,2399.3,-30.380000000000003,525.31%,-231.97%
+2019,Guinea-Bissau,Commercial,1212.28,-43.92,-38.16%,-148.54%
+2019,Guinea-Bissau,Public,223.93,4.48,-67.99%,-164.0%
+2019,Kenya,Commercial,759.18,-15.18,-57.82%,-110.83%
+2019,Kenya,Public,344.77,-13.79,-54.09%,-8.19%
+2019,Kenya,Residential,1188.3899999999999,42.65,-24.82%,68.98%
+2019,Lesotho,Commercial,769.9000000000001,31.53,-43.42%,5.63%
+2019,Lesotho,Residential,969.09,94.27,-4.42%,-4.82%
+2019,Liberia,Commercial,580.63,-11.620000000000001,-65.95%,235.84%
+2019,Liberia,Public,685.47,-47.98,-35.0%,10.48%
+2019,Liberia,Residential,306.96,9.21,55.32%,365.15%
+2019,Libya,Commercial,631.19,-23.96,-26.73%,-139.73%
+2019,Libya,Public,434.16,17.37,-63.08%,21.13%
+2019,Libya,Residential,807.85,32.31,-42.68%,-15485.71%
+2019,Madagascar,Commercial,1138.96,104.43,191.14%,-544.95%
+2019,Madagascar,Public,1116.92,-4.47,0.33%,-109.15%
+2019,Malawi,Commercial,1276.6100000000001,6.57,100.76%,-112.92%
+2019,Malawi,Public,1562.1100000000001,91.50999999999999,1175.09%,-1345.03%
+2019,Malawi,Residential,897.9000000000001,8.78,15.34%,-83.89%
+2019,Mali,Commercial,1491.02,-76.54,61.89%,3.88%
+2019,Mali,Residential,242.66,19.41,-79.16%,-49.4%
+2019,Mauritania,Commercial,356.89,-17.84,-51.81%,-124.09%
+2019,Mauritania,Public,630.95,6.31,-63.99%,-106.49%
+2019,Mauritania,Residential,1093.8000000000002,63.05,18.31%,62.46%
+2019,Mauritius,Commercial,387.66,-23.26,-84.02%,-117.23%
+2019,Mauritius,Public,486.07000000000005,14.32,-35.52%,-137.99%
+2019,Morocco,Commercial,252.02999999999997,-3.92,-88.83%,-143.7%
+2019,Morocco,Public,1126.85,28.31,268.56%,-408.72%
+2019,Mozambique,Commercial,1932.47,-59.67,67.05%,-192.18%
+2019,Mozambique,Public,783.49,0.0,-26.17%,-100.0%
+2019,Mozambique,Residential,549.94,38.5,58.1%,-376.78%
+2019,Namibia,Commercial,927.03,46.35,31.96%,119.88%
+2019,Namibia,Residential,1937.6,-31.619999999999997,173.63%,-216.68%
+2019,Niger,Commercial,389.73,-15.59,-12.02%,-135.19%
+2019,Niger,Public,1409.94,-44.510000000000005,3137.52%,-1805.36%
+2019,Niger,Residential,346.72,-17.34,-28.25%,-144.01%
+2019,Nigeria,Commercial,1288.76,-45.1,227.65%,-227.4%
+2019,Nigeria,Public,2792.57,-21.97,60.74%,-193.97%
+2019,Nigeria,Residential,1765.77,52.93,1999.86%,-2200.4%
+2019,Rwanda,Commercial,1106.6,11.06,40.21%,-140.45%
+2019,Rwanda,Public,472.24,-37.78,101.24%,-inf%
+2019,Rwanda,Residential,543.44,32.61,-71.78%,-156.53%
+2019,Sao Tome and Principe,Commercial,1880.85,-14.880000000000003,91.21%,-166.1%
+2019,Sao Tome and Principe,Public,246.07,-7.38,-86.27%,-110.37%
+2019,Sao Tome and Principe,Residential,888.09,-62.17,-75.01%,36.61%
+2019,Senegal,Commercial,893.17,53.59,-29.77%,122.27%
+2019,Senegal,Public,515.84,38.74,-52.31%,-21.88%
+2019,Seychelles,Commercial,1233.59,-85.49,-7.44%,108.16%
+2019,Seychelles,Residential,733.04,-30.9,113.09%,-399.42%
+2019,Sierra Leone,Commercial,845.73,-33.14,-42.75%,231.4%
+2019,Sierra Leone,Public,891.6800000000001,-8.92,-31.16%,-83.67%
+2019,Somalia,Commercial,1428.33,81.27,60.34%,-214.03%
+2019,Somalia,Public,799.28,-17.169999999999998,-27.48%,-30.68%
+2019,South Africa,Commercial,3368.6000000000004,-11.479999999999999,1191.74%,110.26%
+2019,South Africa,Public,771.25,-15.43,-46.18%,-126.22%
+2019,South Africa,Residential,4804.55,-18.700000000000017,1219.1%,-inf%
+2019,South Sudan,Commercial,619.94,-49.6,88.65%,-250.94%
+2019,South Sudan,Public,1088.7,-16.060000000000002,14.94%,-133.91%
+2019,South Sudan,Residential,720.2,-21.61,32.13%,-155.78%
+2019,Sudan,Public,1132.55,52.85,-68.18%,-48.04%
+2019,Sudan,Residential,2802.2999999999997,-13.329999999999998,21.73%,-1419.8%
+2019,Swaziland,Residential,1707.73,20.029999999999998,-64.28%,-91.84%
+2019,Togo,Commercial,660.33,-19.81,-70.18%,-115.27%
+2019,Togo,Public,875.44,-43.77,-42.79%,-595.7%
+2019,Togo,Residential,721.02,40.199999999999996,-55.28%,-229.68%
+2019,Tunisia,Commercial,1240.35,57.529999999999994,-39.26%,-12.22%
+2019,Tunisia,Public,295.13,26.619999999999997,-79.6%,-79.55%
+2019,Uganda,Commercial,830.39,-41.52,-35.8%,-142.8%
+2019,Uganda,Public,455.3,-18.21,56.9%,695.2%
+2019,Uganda,Residential,615.11,24.47,108.99%,5.38%
+2019,United Republic of Tanzania,Commercial,1167.06,-13.620000000000001,189.21%,-137.5%
+2019,United Republic of Tanzania,Public,846.06,59.22,-35.21%,-31.13%
+2019,United Republic of Tanzania,Residential,98.4,3.94,-58.9%,-141.13%
+2019,Western Sahara,Public,514.71,7.250000000000001,154.37%,-48.8%
+2019,Western Sahara,Residential,1147.82,34.6,-13.75%,36.92%
+2019,Zambia,Public,1128.3899999999999,35.17,95.67%,58516.67%
+2019,Zambia,Residential,820.85,57.46,61.59%,-329.66%
+2019,Zimbabwe,Commercial,1179.71,-44.94,-35.32%,-211.16%
+2019,Zimbabwe,Public,574.87,0.0,165.61%,-100.0%
+2019,Zimbabwe,Residential,438.85,26.33,18.17%,-188.62%
+2020,Algeria,Public,695.64,8.61,-48.52%,-132.38%
+2020,Algeria,Residential,1528.15,-58.87,-11.91%,-1166.49%
+2020,Angola,Commercial,878.19,61.47,-10.34%,8808.7%
+2020,Angola,Public,398.18,-19.91,-16.53%,317.4%
+2020,Angola,Residential,826.4,41.41,17.28%,19.37%
+2020,Benin,Commercial,1303.1399999999999,-2.6899999999999995,15.89%,-128.83%
+2020,Benin,Public,934.94,-74.8,2249.1%,2252.2%
+2020,Benin,Residential,2258.29,-20.360000000000003,9.81%,-206.76%
+2020,Botswana,Commercial,540.78,37.38,-71.45%,-58.98%
+2020,Botswana,Public,544.5,-27.23,15.59%,-inf%
+2020,Botswana,Residential,731.77,-58.54,-8.57%,21.91%
+2020,Burkina Faso,Commercial,524.68,-26.23,127.12%,2880.68%
+2020,Burkina Faso,Public,1173.28,-63.3,70.15%,-956.56%
+2020,Burkina Faso,Residential,117.52,8.23,-92.93%,-126.38%
+2020,Burundi,Commercial,181.34,-12.69,52.44%,433.19%
+2020,Burundi,Public,1044.73,-21.52,20.68%,-141.43%
+2020,Burundi,Residential,326.34,32.63,-80.18%,-31.84%
+2020,Cameroon,Commercial,2501.39,78.75,15.7%,-1221.79%
+2020,Cameroon,Public,1406.49,31.629999999999995,-9.27%,-56.9%
+2020,Cameroon,Residential,537.87,26.89,-44.96%,-54.14%
+2020,Central African Republic,Public,341.86,13.67,-42.55%,129.75%
+2020,Central African Republic,Residential,1706.6799999999998,-6.65,911.19%,-34.35%
+2020,Chad,Commercial,0.89,0.03,-99.93%,-99.97%
+2020,Chad,Public,456.72,18.27,42.42%,-203.1%
+2020,Chad,Residential,445.43,39.199999999999996,-23.92%,3.05%
+2020,Congo,Commercial,535.14,-26.76,-64.21%,-129.17%
+2020,Congo,Public,340.78,-13.63,-46.85%,112.64%
+2020,Congo,Residential,1162.14,-16.869999999999997,-63.29%,-74.33%
+2020,Cote d'Ivoire,Commercial,598.04,18.740000000000002,-60.81%,-157.95%
+2020,Cote d'Ivoire,Public,1051.01,-13.739999999999998,41.28%,-118.47%
+2020,Cote d'Ivoire,Residential,2635.48,116.65,3.36%,52.26%
+2020,Democratic Republic of the Congo,Commercial,2955.7,-20.139999999999993,75.31%,-124.61%
+2020,Democratic Republic of the Congo,Public,524.52,17.45,-52.31%,-198.53%
+2020,Democratic Republic of the Congo,Residential,2952.04,58.7,68.89%,-520.19%
+2020,Djibouti,Commercial,377.25,-7.550000000000001,-60.41%,-73.59%
+2020,Djibouti,Public,1325.03,35.09,35.25%,-270.09%
+2020,Egypt,Commercial,506.78,-10.14,16.38%,-146.58%
+2020,Egypt,Public,510.23,17.35,5.19%,-144.72%
+2020,Egypt,Residential,303.03,-18.18,-39.14%,-282.53%
+2020,Equatorial Guinea,Commercial,770.0799999999999,-29.85,-53.54%,-142.21%
+2020,Equatorial Guinea,Public,293.14,29.31,-53.64%,-44.83%
+2020,Equatorial Guinea,Residential,398.39,-11.95,22.04%,-145.75%
+2020,Eritrea,Commercial,1747.98,-33.230000000000004,777.68%,-934.92%
+2020,Eritrea,Public,845.23,-50.71,-44.36%,-175.03%
+2020,Eritrea,Residential,310.64,3.11,-30.63%,-30.58%
+2020,Ethiopia,Commercial,1522.8899999999999,-6.5,19.69%,-183.87%
+2020,Ethiopia,Public,335.74,16.79,-58.93%,-79.46%
+2020,Ethiopia,Residential,302.99,9.09,-79.98%,-112.77%
+2020,Gabon,Commercial,299.72,-23.98,-83.25%,-124.09%
+2020,Gabon,Public,367.0,-16.259999999999998,-70.99%,-53.94%
+2020,Gabon,Residential,963.17,-77.05,-59.86%,153.62%
+2020,Ghana,Commercial,737.77,6.119999999999999,-39.14%,-113.93%
+2020,Ghana,Public,1650.37,53.49,637.0%,1093.97%
+2020,Ghana,Residential,1445.4,47.53,90.39%,-413.11%
+2020,Guinea,Commercial,963.8799999999999,3.9200000000000017,179.57%,-128.43%
+2020,Guinea,Public,660.24,-24.92,-44.44%,-158.43%
+2020,Guinea-Bissau,Commercial,1204.73,44.58,56.48%,41.39%
+2020,Guinea-Bissau,Residential,53.89,4.31,-94.44%,-95.43%
+2020,Kenya,Public,1351.21,6.200000000000003,132.71%,-153.36%
+2020,Kenya,Residential,914.44,12.799999999999999,33.4%,-126.68%
+2020,Lesotho,Commercial,1199.38,46.54,290.73%,405.32%
+2020,Lesotho,Public,318.66,25.49,-49.51%,-206.39%
+2020,Lesotho,Residential,526.93,-26.35,21.37%,-251.7%
+2020,Liberia,Commercial,239.28,-4.79,-70.38%,-114.83%
+2020,Liberia,Residential,1323.73,16.25,16.22%,-84.44%
+2020,Libya,Commercial,218.66,-3.0400000000000005,-80.42%,-31.99%
+2020,Libya,Residential,515.59,17.17,-59.61%,161.34%
+2020,Madagascar,Commercial,600.21,-6.0,-61.58%,-106.56%
+2020,Madagascar,Public,335.21,-10.06,-62.67%,-214.58%
+2020,Madagascar,Residential,341.96000000000004,30.270000000000003,-77.07%,-139.55%
+2020,Malawi,Commercial,840.7,4.17,246.45%,-78.52%
+2020,Malawi,Public,1117.39,-30.5,213.09%,70.96%
+2020,Malawi,Residential,1780.74,78.97,182.23%,1151.51%
+2020,Mali,Commercial,1332.44,35.35,21.82%,-43.93%
+2020,Mali,Public,93.81,-2.81,-75.8%,-87.92%
+2020,Mali,Residential,21.08,-1.26,-95.66%,-108.8%
+2020,Mauritania,Commercial,1434.54,119.94,469.19%,-3159.69%
+2020,Mauritania,Public,871.54,-17.43,-22.66%,-161.57%
+2020,Mauritania,Residential,949.73,37.99,-50.85%,-163.67%
+2020,Mauritius,Commercial,660.96,18.54,-15.64%,inf%
+2020,Mauritius,Public,859.44,68.76,56.28%,78.6%
+2020,Morocco,Commercial,184.49,-7.38,-80.1%,-115.92%
+2020,Morocco,Public,1253.3600000000001,-59.73,-35.31%,88.9%
+2020,Mozambique,Commercial,806.47,80.65,106.93%,-617.32%
+2020,Mozambique,Public,722.6400000000001,-5.56,-48.75%,-87.51%
+2020,Mozambique,Residential,932.67,18.65,169.0%,-207.55%
+2020,Namibia,Commercial,978.37,39.13,-24.08%,-186.76%
+2020,Namibia,Public,951.26,95.13,-65.94%,-533.0%
+2020,Namibia,Residential,721.88,-34.86000000000001,-59.12%,-165.86%
+2020,Niger,Commercial,1713.49,-6.77,54.84%,-161.21%
+2020,Niger,Public,812.17,-64.97,71.98%,71.97%
+2020,Niger,Residential,945.62,0.0,74.01%,-100.0%
+2020,Nigeria,Commercial,2333.64,72.03999999999999,24.07%,-584.14%
+2020,Nigeria,Public,2778.6600000000003,40.0,1029.22%,-642.01%
+2020,Nigeria,Residential,3075.4599999999996,39.39999999999999,246.3%,-163.37%
+2020,Rwanda,Commercial,895.24,-71.62,0.23%,-233.64%
+2020,Rwanda,Public,1018.0,58.290000000000006,97.35%,50.46%
+2020,Sao Tome and Principe,Commercial,330.17,-23.11,-73.24%,-72.97%
+2020,Sao Tome and Principe,Public,681.82,27.27,-6.99%,-188.25%
+2020,Sao Tome and Principe,Residential,931.34,44.15,10.12%,-233.22%
+2020,Senegal,Commercial,606.5600000000001,29.79,-31.98%,-433.97%
+2020,Senegal,Residential,300.64,6.01,-78.95%,-92.6%
+2020,Seychelles,Commercial,355.34000000000003,33.65,-55.54%,-295.98%
+2020,Seychelles,Public,133.74,12.04,-96.03%,-204.88%
+2020,Seychelles,Residential,460.12,-13.8,-40.34%,-10.56%
+2020,Sierra Leone,Public,1293.5600000000002,-15.370000000000001,-73.08%,-17.81%
+2020,Sierra Leone,Residential,117.12,-1.17,-81.11%,-97.64%
+2020,Somalia,Commercial,378.25,37.82,-65.26%,-335.49%
+2020,Somalia,Public,858.02,77.22,19.14%,-457.33%
+2020,Somalia,Residential,307.81,-6.16,-72.82%,-111.66%
+2020,South Africa,Commercial,3566.0,-130.35000000000002,27.25%,877.87%
+2020,South Africa,Public,2606.3700000000003,124.53,52.62%,521.72%
+2020,South Africa,Residential,1798.82,-6.309999999999997,172.41%,-68.15%
+2020,South Sudan,Public,1339.76,2.519999999999996,53.04%,-105.76%
+2020,South Sudan,Residential,439.53999999999996,24.419999999999998,-39.04%,-39.25%
+2020,Sudan,Commercial,1040.41,-20.58,-16.12%,-135.77%
+2020,Sudan,Public,2834.1099999999997,36.14,860.29%,35.76%
+2020,Sudan,Residential,816.28,40.81,-1.7%,-198.29%
+2020,Swaziland,Commercial,1168.69,49.58,156.69%,-372.27%
+2020,Swaziland,Residential,997.44,-55.760000000000005,62.16%,-327.87%
+2020,Togo,Public,1467.3899999999999,-41.51,25.73%,204.77%
+2020,Togo,Residential,440.08,-17.6,-47.98%,-129.72%
+2020,Tunisia,Commercial,994.0,-1.290000000000001,910.16%,-132.74%
+2020,Tunisia,Residential,860.5,37.17,67.18%,412.69%
+2020,Uganda,Public,680.17,68.02,-40.74%,96.59%
+2020,Uganda,Residential,1802.66,68.75,59.76%,95.48%
+2020,United Republic of Tanzania,Residential,2096.2000000000003,-62.29,155.37%,-208.41%
+2020,Western Sahara,Commercial,91.21,-1.82,-92.27%,-95.95%
+2020,Western Sahara,Public,561.07,28.05,-2.4%,inf%
+2020,Western Sahara,Residential,468.4,17.22,6.73%,-34.6%
+2020,Zambia,Commercial,1539.77,-39.97,121.35%,-564.23%
+2020,Zambia,Public,84.03,-3.08,-94.5%,-94.77%
+2020,Zimbabwe,Commercial,401.79,0.0,-54.25%,-100.0%
+2020,Zimbabwe,Public,179.71,8.99,-54.87%,-145.15%
+2020,Zimbabwe,Residential,843.98,-23.66,2.13%,-157.14%
